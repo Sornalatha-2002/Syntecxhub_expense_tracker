@@ -1,16 +1,54 @@
-# React + Vite
+# Syntecxhub_Expense_Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Expense Tracker** application built with React as part of the Syntecxhub internship program.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add, view, and delete expenses
+- ✅ Filter expenses by category
+- ✅ Summary dashboard with totals and category breakdown
+- ✅ Responsive design (mobile/tablet/desktop)
+- ✅ Premium dark theme with modern UI
 
-## React Compiler
+## ⚛️ React Hooks Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Hook | Purpose |
+|------|---------|
+| `useState` | Managing form inputs and expenses list |
+| `useEffect` | Fetching data from mock API |
+| `useRef` | Form field focus management |
+| `useMemo` | Optimizing filtering and calculations |
+| `useCallback` | Optimizing event handlers |
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite
+- CSS3 (Custom Design System)
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/Syntecxhub_Expense_Tracker.git
+
+# Navigate to project
+cd Syntecxhub_Expense_Tracker/expense-tracker
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+## 📸 Screenshots
+
+*Add screenshots of your application here*
+
+## 👤 Author
+
+Built as part of **Syntecxhub Web Development Internship**
+
+---
+⭐ Don't forget to star this repo if you found it helpful!
