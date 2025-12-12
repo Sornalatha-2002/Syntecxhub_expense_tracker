@@ -42,13 +42,10 @@ npm install
 npm run dev
 ```
 
-## 📸 Screenshots
-
-*Add screenshots of your application here*
-
 ## 👤 Author
 
-Built as part of **Syntecxhub Web Development Internship**
+Built by **Sornalatha S **
+Email: sornalathas2002@gmail.com
 
 ---
 ⭐ Don't forget to star this repo if you found it helpful!
