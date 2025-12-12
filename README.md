@@ -44,7 +44,7 @@ npm run dev
 
 ## 👤 Author
 
-Built by **Sornalatha S **
+Built by **Sornalatha S**
 Email: sornalathas2002@gmail.com
 
 ---
